@@ -1,4 +1,4 @@
-**PRIVACY POLICY**
+<h1>PRIVACY POLICY</h1>
 
   
 
@@ -98,7 +98,7 @@ Want to learn more about what we do with any information we collect? [Review th
 
   
 
-**1\. WHAT INFORMATION DO WE COLLECT?**
+<infocollect>**1\. WHAT INFORMATION DO WE COLLECT?**
 
   
 
@@ -138,7 +138,7 @@ This information is primarily needed to maintain the security and operation of o
 
   
 
-All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.</infocollect>
 
   
 
