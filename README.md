@@ -1,4 +1,4 @@
-<>PRIVACY POLICY<\h1>
+<h>PRIVACY POLICY</h1>
 
   
 
